@@ -423,6 +423,9 @@
       <Private>False</Private>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="JuniperChili_Tex.png" />
+  </ItemGroup>
   <PropertyGroup>
     <PreBuildEvent>
     </PreBuildEvent>
